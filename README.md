@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaglyder
 - 👀 I’m interested in pursuing a career in information technology
-- 🌱 I recently graduated from UNCW in DEcember 2021
-- 💞️ I’m looking to find a job or internship in the field of technology
+- 🌱 I recently graduated from UNCW in December 2021
+- 💞️ I’m looking to find a job or internship.
 - 📫 How to reach me janneglyder@gmail.com
 
 <!---
